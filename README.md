@@ -1,10 +1,9 @@
-# Moved to [@tao200ok](https://github.com/tao200ok)
+# 👋 Hi, I'm Taofeeq. 
+#### Moved to [@tao200ok](https://github.com/tao200ok)
 
-- 👋 Hi, I’m @code-tao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can now find me [here](https://github.com/tao200ok) instead. 
+- 👋 Welcome!
+- 🚚 I've moved things around a bit.
+- 📁 You can now [find my work here](https://github.com/tao200ok?tab=repositories).
 
 <!---
 code-tao/code-tao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
